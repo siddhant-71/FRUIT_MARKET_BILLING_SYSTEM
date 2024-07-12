@@ -1,0 +1,7 @@
+						**  THE SIDDHANT FRUIT MARKET  **
+
+								* BILL RECEIPT *
+
+
+	FRUIT NAME  			PRICE   			QUANTITY			TOTAL
+	.   				.   				.   				.
